@@ -9,6 +9,7 @@
 {phang}
 {bf:czxstk} {hline 2} 从网易财经获取中国股票数据，然后绘制股票最高价-最低价-收盘价走势图以及交易量的直方图，最后按照指定的格式导出至本地保存。
 
+{pstd}{browse "http://upload-images.jianshu.io/upload_images/8103632-62b3283f8100e3e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240":示例结果图片}{p_end}
 
 {title:语法}
 
