@@ -1,6 +1,6 @@
 capture program drop czxstk
 program define czxstk
-	version 14.2
+	version 12.0
 	syntax anything(name = tickers), [ path(string) stock index from(string) to(string) f(string) t(string) fmt(string) savefile s closegraph cg]
 	if "`savefile'" != ""{
 		local s = "`savefile'"
