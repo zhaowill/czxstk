@@ -40,7 +40,7 @@
 {title:选项}
 
 {phang}
-{opt path(文件夹的名字)}: 如果有选择项s，path选项可以用来指定dta文件的保存位置。{p_end}
+{opt path(文件夹的名字)}: 如果有选择项s，path选项可以用来指定dta文件的保存位置，默认路径为工作目录。{p_end}
 
 {phang}
 {opt stock}: 指定代码列表为股票代码，并且这是默认选项。 choice.{p_end}
