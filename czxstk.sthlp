@@ -116,7 +116,7 @@
 {pstd}程振兴{p_end}
 {pstd}暨南大学经济学院{p_end}
 {pstd}中国广州{p_end}
-{pstd}{browse "https://github.com/czxa/czxstk":Github/czxstk}{p_end}
+{pstd}{browse "http://www.czxa.top/czxstk/":Github/czxstk}{p_end}
 {pstd}{browse "http://czxa.top":个人网站}{p_end}
 {pstd}czxjnu@163.com{p_end}
 
