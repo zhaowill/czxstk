@@ -127,6 +127,6 @@
 Reference: cntrade: 张璇. 李春涛. 薛原.
 {space 2}按照cntrade命令：
 
-{stata `"ssc install cntrade, replace"'}
+{space 4}{stata `"ssc install cntrade, replace"'}
 
 {space 2}Help:  {manhelp cntrade D}
