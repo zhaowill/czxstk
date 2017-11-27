@@ -118,7 +118,7 @@
 {pstd}中国广州{p_end}
 {pstd}{browse "http://www.czxa.top/czxstk/":Github/czxstk}{p_end}
 {pstd}{browse "http://czxa.top":个人网站}{p_end}
-{pstd}czxjnu@163.com{p_end}
+{pstd}Email {browse "mailto:czxjnu@163.com":czxjnu@163.com}{p_end}
 
 {title:Also see}
 
