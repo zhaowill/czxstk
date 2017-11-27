@@ -80,13 +80,19 @@ czxstk 1 300, index fmt(pdf) f(20170101) t(20171125) cg
 
 #### 作者
 
-> 程振兴
-> 暨南大学经济学院
-> 中国广州
-> [该命令Github地址](https://github.com/czxa/czxstk)
-> [该命令的网页](http://www.czxa.top/czxstk/)
-> [个人网站](www.czxa.top)
-> 邮箱：czxjnu@163.com
+程振兴
+
+暨南大学经济学院
+
+中国广州
+
+[该命令Github地址](https://github.com/czxa/czxstk)
+
+[该命令的网页](http://www.czxa.top/czxstk/)
+
+[个人网站](www.czxa.top)
+
+邮箱：czxjnu@163.com
 
 #### Reference:
 
