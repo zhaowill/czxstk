@@ -125,8 +125,6 @@
 {p 4 14 2}
 Reference: cntrade: 张璇. 李春涛. 薛原.
 
-{space 4}Article: {it:Stata Journal}, volume 14, number 2: {browse "http://www.stata-journal.com/article.html?article=dm0074":dm0074}
-
 {psee}
 {space 2}Help:  {manhelp cntrade D}
 {break}{helpb cntrade} if installed
