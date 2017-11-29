@@ -22,9 +22,11 @@ github install czxa/czxstk, replace
 
 #### 或者下载安装：
 * 另外你也可以从这里把ado文件和sthlp文件下载下来，然后放在你的C:/ado/plus文件夹中对应的首字母文件夹里面，如果你的电脑是Mac系统，那么你需要把这两个文件放在这个文件夹里：
+
 ```
 /Users/mr.cheng/Library/Application Support/Stata/ado/plus/
 ```
+
 * 注意把“mr.cheng”改成你自己的电脑名字。
 
 #### 用法：
